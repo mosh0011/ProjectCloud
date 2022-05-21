@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "464075586140",
+    "firebase_url": "https://ahmed-ad4f7-default-rtdb.firebaseio.com",
+    "project_id": "ahmed-ad4f7",
+    "storage_bucket": "ahmed-ad4f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464075586140:android:029e81e219ae12f2274499",
+        "android_client_info": {
+          "package_name": "com.ahmed.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464075586140-v0ikl658hqkrmlq41e1tfrsocqdvb6ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLDOHSSvPCQlRHb6JLM8VNJY6ci1NhrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464075586140-v0ikl658hqkrmlq41e1tfrsocqdvb6ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464075586140:android:a899686bed05d829274499",
+        "android_client_info": {
+          "package_name": "com.ahned.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464075586140-v0ikl658hqkrmlq41e1tfrsocqdvb6ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLDOHSSvPCQlRHb6JLM8VNJY6ci1NhrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464075586140-v0ikl658hqkrmlq41e1tfrsocqdvb6ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
